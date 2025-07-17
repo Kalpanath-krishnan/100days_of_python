@@ -6,4 +6,4 @@ this repo contains my journey footprints through angela yu's 100 days of python
 2.tip calculator➕--- calculate tip and split it between friends
 3.treasure islandisland🏝️---treasure island simple game based on questions 
 4.rrock🪨 paper📄 scissors✂️--- game of rock paper scissors !!! lets play
-5.password generator 🎫--- simple program to generate strong password (combination of          alphanumeric and special characters)  
+5.password generator 🎫--- simple program to generate strong password (combination of alphanumeric and special characters)  
